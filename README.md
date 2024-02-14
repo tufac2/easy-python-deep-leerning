@@ -8,7 +8,7 @@ Este reepositorio lo he creado a partir de ver un post en linkedin donde un chav
 
 ## Jordi Torres
 
-El contenido de este libro viene inspirado, que no copiado del libro de [Jordi Torres](https://torres.ai), <a href="https://www.marcombo.com/python-deep-learning-9788426728289/"><img src="https://www.marcombo.com/wp-content/uploads/2019/12/9788426728289.jpg" alt="Python Deep Learning" height="256px" align="right"></a>
+El contenido de este repositorio viene creado gracias al gran descubirmiento del libro de [Jordi Torres](https://torres.ai), <a href="https://www.marcombo.com/python-deep-learning-9788426728289/"><img src="https://www.marcombo.com/wp-content/uploads/2019/12/9788426728289.jpg" alt="Python Deep Learning" height="256px" align="right"></a>
 
 ### Acerca del libro
 
